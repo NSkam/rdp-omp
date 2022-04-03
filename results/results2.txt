@@ -1,0 +1,314 @@
+TASK 1 1 Thread
+
+E=0,1
+
+O0
+
+20.444530 sec
+
+20.444855 sec
+
+O3
+
+10.503633 sec
+
+10.504020 sec
+
+
+E=0.01
+
+O0
+
+43.615932 sec
+
+43.616411 sec
+
+O3
+
+18.109671 sec
+
+18.110001 sec
+
+E = 0,001
+
+O0
+Time for thread 0 calculation = 54.777523 sec
+Time for calculations =     54.777876 sec
+
+O3
+
+Time for thread 0 calculation = 24.592041 sec
+Time for calculations =     24.592435 sec
+
+E = 0,0001
+
+O0
+
+Time for thread 0 calculation = 83.372955 sec
+
+Time for calculations =     83.373273 sec
+
+O3
+
+Time for thread 0 calculation = 33.448547 sec
+Time for calculations =     33.448902 sec
+
+Task 1 2Thread
+
+e= 0,1
+
+O0
+Time for thread 0 calculation = 17.388727 sec
+Time for thread 1 calculation = 17.388727 sec
+Time for calculations =     17.389201 sec
+
+O3
+Time for thread 0 calculation = 8.341088 sec
+Time for thread 1 calculation = 8.341088 sec
+Time for calculations =      8.341665 sec
+
+
+e = 0,01
+
+O0
+Time for thread 0 calculation = 31.468958 sec
+Time for thread 1 calculation = 31.468958 sec
+Time for calculations =     31.469496 sec
+
+O3
+Time for thread 1 calculation = 15.973408 sec
+Time for thread 0 calculation = 15.973408 sec
+Time for calculations =     15.974030 sec
+
+e=0,001
+O0
+Time for thread 0 calculation = 48.868542 sec
+Time for thread 1 calculation = 48.868542 sec
+Time for calculations =     48.869133 sec
+
+O3
+Time for thread 1 calculation = 22.814318 sec
+Time for thread 0 calculation = 22.814316 sec
+Time for calculations =     22.814914 sec
+
+e=0,0001
+O0
+Time for thread 1 calculation = 74.747108 sec
+Time for thread 0 calculation = 74.747131 sec
+Time for calculations =     74.747845 sec
+
+O3
+Time for thread 0 calculation = 31.262360 sec
+Time for thread 1 calculation = 31.262352 sec
+Time for calculations =     31.263003 sec
+
+Task 1 4Threads
+
+e=0,1
+O0
+Time for thread 2 calculation = 16.129702 sec
+Time for thread 0 calculation = 16.129704 sec
+Time for thread 3 calculation = 16.129702 sec
+Time for thread 1 calculation = 16.129702 sec
+Time for calculations =     16.130532 sec
+
+O3
+Time for thread 3 calculation = 8.074745 sec
+Time for thread 2 calculation = 8.074745 sec
+Time for thread 1 calculation = 8.074745 sec
+Time for thread 0 calculation = 8.074744 sec
+Time for calculations =      8.075797 sec
+
+e= 0,01
+O0
+Time for thread 2 calculation = 30.135033 sec
+Time for thread 0 calculation = 30.135035 sec
+Time for thread 1 calculation = 30.135033 sec
+Time for thread 3 calculation = 30.135033 sec
+Time for calculations =     30.135823 sec
+
+O3
+Time for thread 0 calculation = 15.082607 sec
+Time for thread 2 calculation = 15.082607 sec
+Time for thread 1 calculation = 15.082607 sec
+Time for thread 3 calculation = 15.082607 sec
+Time for calculations =     15.083555 sec
+
+e=0,001
+O0
+Time for thread 2 calculation = 47.765800 sec
+Time for thread 0 calculation = 47.765800 sec
+Time for thread 1 calculation = 47.765800 sec
+Time for thread 3 calculation = 47.765800 sec
+Time for calculations =     47.766556 sec
+
+O3
+Time for thread 3 calculation = 22.699102 sec
+Time for thread 0 calculation = 22.699100 sec
+Time for thread 2 calculation = 22.699100 sec
+Time for thread 1 calculation = 22.699100 sec
+Time for calculations =     22.699946 sec
+
+e=0,0001
+O0
+Time for thread 0 calculation = 72.459358 sec
+Time for thread 3 calculation = 72.459396 sec
+Time for thread 2 calculation = 72.459396 sec
+Time for thread 1 calculation = 72.459404 sec
+Time for calculations =     72.460118 sec
+
+O3
+Time for thread 0 calculation = 31.071508 sec
+Time for thread 2 calculation = 31.071508 sec
+Time for thread 1 calculation = 31.071508 sec
+Time for thread 3 calculation = 31.071508 sec
+Time for calculations =     31.072277 sec
+
+Task 2 1 thread
+
+e=0,1
+O0
+Time for thread 0 calculation = 21.438110 sec
+Time for calculations =     21.438603 sec
+
+O3
+Time for thread 0 calculation = 10.507259 sec
+Time for calculations =     10.507407 sec
+
+e=0,01
+O0
+Time for thread 0 calculation = 40.046303 sec
+Time for calculations =     40.046695 sec
+
+O3
+Time for thread 0 calculation = 18.780273 sec
+Time for calculations =     18.780455 sec
+
+e=0,001
+O0
+Time for thread 0 calculation = 58.488136 sec
+Time for calculations =     58.488551 sec
+
+O3
+Time for thread 0 calculation = 25.620581 sec
+Time for calculations =     25.621180 sec
+
+e=0,0001
+O0
+Time for thread 0 calculation = 93.228882 sec
+Time for calculations =     93.229437 sec
+
+O3
+Time for thread 0 calculation = 36.373070 sec
+Time for calculations =     36.373468 sec
+
+Task 2 2Threads
+e=0,1
+O0
+Time for thread 1 calculation = 11.794268 sec
+Time for thread 0 calculation = 11.794268 sec
+Time for calculations =     11.794783 sec
+
+O3
+Time for thread 0 calculation = 5.930578 sec
+Time for thread 1 calculation = 5.930578 sec
+Time for calculations =      5.931011 sec
+
+
+e=0,01
+O0
+Time for thread 1 calculation = 22.356743 sec
+Time for thread 0 calculation = 22.356743 sec
+Time for calculations =     22.357243 sec
+
+O3
+Time for thread 0 calculation = 10.657627 sec
+Time for thread 1 calculation = 10.657627 sec
+Time for calculations =     10.658229 sec
+
+e=0,001
+O0
+Time for thread 1 calculation = 36.100254 sec
+Time for thread 0 calculation = 36.100254 sec
+Time for calculations =     36.100627 sec
+
+O3
+Time for thread 0 calculation = 16.692255 sec
+Time for thread 1 calculation = 16.692253 sec
+Time for calculations =     16.693366 sec
+
+
+e=0,0001
+O0
+Time for thread 0 calculation = 54.959869 sec
+Time for thread 1 calculation = 54.959984 sec
+Time for calculations =     54.960205 sec
+
+O3
+Time for thread 0 calculation = 23.798088 sec
+Time for thread 1 calculation = 23.798088 sec
+Time for calculations =     23.798902 sec
+
+Task 2 4 Threads
+e=0,1
+O0
+Time for thread 2 calculation = 16.839441 sec
+Time for thread 3 calculation = 16.839441 sec
+Time for thread 1 calculation = 16.839441 sec
+Time for thread 0 calculation = 16.839441 sec
+Time for calculations =     16.840292 sec
+
+O3
+Time for thread 1 calculation = 8.148674 sec
+Time for thread 0 calculation = 8.148674 sec
+Time for thread 2 calculation = 8.148674 sec
+Time for thread 3 calculation = 8.148674 sec
+Time for calculations =      8.149773 sec
+
+
+e=0,01
+O0
+Time for thread 0 calculation = 32.017490 sec
+Time for thread 3 calculation = 32.017490 sec
+Time for thread 2 calculation = 32.017490 sec
+Time for thread 1 calculation = 32.017490 sec
+Time for calculations =     32.018363 sec
+
+O3
+Time for thread 3 calculation = 15.348230 sec
+Time for thread 0 calculation = 15.348230 sec
+Time for thread 1 calculation = 15.348230 sec
+Time for thread 2 calculation = 15.348230 sec
+Time for calculations =     15.348760 sec
+
+e=0,001
+O0
+Time for thread 1 calculation = 52.218155 sec
+Time for thread 3 calculation = 52.218155 sec
+Time for thread 2 calculation = 52.218155 sec
+Time for thread 0 calculation = 52.218155 sec
+Time for calculations =     52.219090 sec
+
+O3
+Time for thread 1 calculation = 24.187288 sec
+Time for thread 0 calculation = 24.187290 sec
+Time for thread 3 calculation = 24.187288 sec
+Time for thread 2 calculation = 24.187288 sec
+Time for calculations =     24.188524 sec
+
+e=0,0001
+O0
+Time for thread 1 calculation = 80.896141 sec
+Time for thread 2 calculation = 80.896172 sec
+Time for thread 0 calculation = 80.896172 sec
+Time for thread 3 calculation = 80.896172 sec
+Time for calculations =     80.896673 sec
+
+O3
+Time for thread 3 calculation = 35.162594 sec
+Time for thread 2 calculation = 35.162590 sec
+Time for thread 0 calculation = 35.162590 sec
+Time for thread 1 calculation = 35.162590 sec
+Time for calculations =     35.163124 sec
+
+
